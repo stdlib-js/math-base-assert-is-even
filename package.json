@@ -14,6 +14,7 @@
     }
   ],
   "main": "./lib",
+  "gypfile": false,
   "directories": {
     "benchmark": "./benchmark",
     "doc": "./docs",
@@ -37,7 +38,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-assert-is-integer": "^0.2.2",
+    "@stdlib/math-base-assert-is-integer": "^0.2.3",
     "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
