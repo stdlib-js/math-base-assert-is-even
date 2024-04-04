@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-assert-is-even",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Test if a finite numeric value is an even number.",
   "license": "Apache-2.0",
   "author": {
