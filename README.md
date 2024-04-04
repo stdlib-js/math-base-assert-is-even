@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-even@esm/index.mjs';
+import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-even@v0.2.2-esm/index.mjs';
 ```
 
 #### isEven( x )
@@ -107,7 +107,7 @@ bool = isEven( NaN );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-even@esm/index.mjs';
+import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-assert-is-even@v0.2.2-esm/index.mjs';
 
 var bool;
 var x;
