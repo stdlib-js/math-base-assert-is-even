@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.4">
 
-## Unreleased (2025-08-08)
+## 0.2.4 (2026-01-29)
 
 <section class="bug-fixes">
 
@@ -22,9 +22,10 @@
 
 <details>
 
+-   [`65ddf8d`](https://github.com/stdlib-js/stdlib/commit/65ddf8d4d51ccfda52d1c5a06408e43fb386c27e) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`3eea4f7`](https://github.com/stdlib-js/stdlib/commit/3eea4f78d4cfeae6f9dbf10b0c21175a65e5e07b) - **fix:** add missing includes _(by Athan Reines)_
--   [`ef16301`](https://github.com/stdlib-js/stdlib/commit/ef163012ebdb76aca762baa0a65118bcf6a866e9) - **docs:** replace manual `for` loop in examples [(#6675)](https://github.com/stdlib-js/stdlib/pull/6675) _(by Harsh)_
--   [`c912eff`](https://github.com/stdlib-js/stdlib/commit/c912eff7b1a6f05304f2f003021b4e47ad1074ab) - **bench:** update random value generation [(#6676)](https://github.com/stdlib-js/stdlib/pull/6676) _(by Harsh)_
+-   [`ef16301`](https://github.com/stdlib-js/stdlib/commit/ef163012ebdb76aca762baa0a65118bcf6a866e9) - **docs:** replace manual `for` loop in examples [(#6675)](https://github.com/stdlib-js/stdlib/pull/6675) _(by Harsh Yadav)_
+-   [`c912eff`](https://github.com/stdlib-js/stdlib/commit/c912eff7b1a6f05304f2f003021b4e47ad1074ab) - **bench:** update random value generation [(#6676)](https://github.com/stdlib-js/stdlib/pull/6676) _(by Harsh Yadav)_
 -   [`861cd7f`](https://github.com/stdlib-js/stdlib/commit/861cd7fe43675fb2d0c964415f117c3f36e3d5bf) - **refactor:** update `math/base/assert/is-even` to follow latest project conventions [(#4183)](https://github.com/stdlib-js/stdlib/pull/4183) _(by Vivek Maurya, Athan Reines)_
 -   [`f13ddb2`](https://github.com/stdlib-js/stdlib/commit/f13ddb2eb01e5520b6fa98634bbf9de76793036f) - **style:** use spaces for alignment in C comments _(by Philipp Burckhardt)_
 -   [`ff25e13`](https://github.com/stdlib-js/stdlib/commit/ff25e1324e1507cc076078e82badce7fdf7915f6) - **docs:** remove excess whitespace _(by Philipp Burckhardt)_
@@ -46,7 +47,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
 -   Philipp Burckhardt
 -   Vivek Maurya
 
